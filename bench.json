@@ -1,0 +1,54 @@
+{
+ "yelpchi|gbdt": {
+  "ms_per_1k": 81.82734071375019,
+  "n_test": 18382
+ },
+ "yelpchi|rf": {
+  "ms_per_1k": 30.02292454576186,
+  "n_test": 18382
+ },
+ "yelpchi|nsaga": {
+  "ms_per_1k": 4.785067457303678,
+  "n_test": 18382
+ },
+ "yelpchi|mlp": {
+  "ms_per_1k": 1.2456259928034783,
+  "n_test": 18382
+ },
+ "yelpchi|cnn": {
+  "ms_per_1k": 6.991242574251426,
+  "n_test": 18382
+ },
+ "yelpchi|lstm": {
+  "ms_per_1k": 5.4161952453386135,
+  "n_test": 18382
+ },
+ "yelpchi|sage": {
+  "ms_per_1k": 19.196733217258082,
+  "n_test": 18382
+ },
+ "yelpchi|rgcn": {
+  "ms_per_1k": 37.67079235120562,
+  "n_test": 18382
+ },
+ "yelpchi|bwgnn": {
+  "ms_per_1k": 18.9026615711021,
+  "n_test": 18382
+ },
+ "yelpchi|rgt": {
+  "ms_per_1k": 43.987816070042015,
+  "n_test": 18382
+ },
+ "yelpchi|nag": {
+  "ms_per_1k": 9.915323740594543,
+  "n_test": 18382
+ },
+ "yelpchi|tokce": {
+  "ms_per_1k": 19.529818518108495,
+  "n_test": 18382
+ },
+ "yelpchi|dimgt": {
+  "ms_per_1k": 22.694259492963255,
+  "n_test": 18382
+ }
+}
